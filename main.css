@@ -2,7 +2,7 @@
 
 :root{
   --theme-color:  #001eff;
-  --theme-color:  #ff7474;
+  /*--theme-color:  #ff7474;*/
 }
 html {
   overflow-x: hidden;
